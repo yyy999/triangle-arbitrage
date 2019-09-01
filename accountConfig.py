@@ -6,7 +6,7 @@ HUOBI = {
         {
             "ACCESS_KEY": access_key,
             "SECRET_KEY": secret_key,
-            "SERVICE_API": "https://api.huobi.com/apiv3",
+            "SERVICE_API": "https://api.huobi.pro",
         },
 
 }
